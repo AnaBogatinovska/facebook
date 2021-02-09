@@ -495,13 +495,13 @@ header {
     background-image: url(images/anab-full.jpg);
 }
 .story-img-bojan {
-    background-image: url(images/bojan.jpg);
+    background-image: url(images/anab-full.jpg);
 }
 .story-img-dita {
-    background-image: url(images/dita.jpg);    
+    background-image: url(images/anab-full.jpg);    
 }
 .story-img-bobi {
-    background-image: url(images/bobi.jpg);
+    background-image: url(images/anab-full.jpg);
 }
 .story-img img {
     border-radius: 50%;
